@@ -1,0 +1,19 @@
+{
+  "name": "adventjs2022",
+  "version": "1.0.0",
+  "description": "adventjs2022",
+  "main": "src/dayOne.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezehurt/adventjs2022.git"
+  },
+  "author": "Ezequiel Julian Hurt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezehurt/adventjs2022/issues"
+  },
+  "homepage": "https://github.com/ezehurt/adventjs2022#readme"
+}
